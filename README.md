@@ -7,7 +7,7 @@ It's a [**NodeJS**](https://nodejs.org/en) application, written in [**TypeScript
 To run the script, first clone this repository, then:
 
 ```
-pnpn install
+pnpm install
 pnpm start
 ```
 
@@ -23,4 +23,4 @@ The official [website](https://paris-mpt.r.mikatiming.de/2024/?pidp=tracking) al
 
 I am using a simple loop to query the page for each bib number. It rely on the `fetch` tool to interact with the website, and `jsdom` to extract the information from the HTML page.
 
-Enjoy it!
+Enjoy it, share it, hack it!
